@@ -32,7 +32,7 @@ def show_chat_page(mongo_db, user_id, rag_system=EnhancedRAG):
             "primary_color": "#4CAF50",
             "background_color": "#F5F5F5",
             "secondary_color": "#2196F3",
-            "text_color": "#212121",
+            "text_color": "#FFFFFFF",
             "accent_color": "#FF9800"
         }
     
